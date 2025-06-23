@@ -1,0 +1,11 @@
+Country,Year,CO2_Emissions_Mt,Renewable_Energy_Percent,Access_to_Electricity_Percent,CO2_Damage_Percent_GNI
+United States,2018,5416.8,11.12,100,1.047
+China,2018,10065.2,12.4,100,3.8
+Germany,2018,798.8,16.2,100,0.536
+Brazil,2018,462.9,45.02,99.5,0.45
+India,2018,2651.8,17.5,95.2,2.1
+Japan,2018,1162.1,6.4,100,0.324
+United Kingdom,2018,364.0,10.2,100,0.298
+France,2018,330.1,16.6,100,0.244
+Canada,2018,572.7,18.9,100,0.7
+Australia,2018,415.9,9.6,100,1.047

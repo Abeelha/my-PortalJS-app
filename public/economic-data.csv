@@ -1,0 +1,11 @@
+Country,GDP_Per_Capita_USD,Income_Classification,Unemployment_Rate_Male,Unemployment_Rate_Female,ATMs_Per_100k_Adults
+United States,65279.53,High income,3.7,3.6,174.3
+Germany,53259.49,High income,3.1,2.8,58.9
+Japan,39289.82,High income,2.4,2.4,127.8
+United Kingdom,42354.41,High income,4.0,3.9,125.2
+France,41463.64,High income,8.8,8.7,113.3
+Canada,46260.71,High income,5.8,5.4,220.1
+Australia,57354.96,High income,5.3,5.3,146.2
+Brazil,8897.49,Upper-middle income,11.9,13.8,131.5
+China,10261.68,Upper-middle income,4.4,4.3,95.7
+India,2099.60,Lower-middle income,5.7,3.5,22.6
